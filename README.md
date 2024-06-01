@@ -1,2 +1,2 @@
 # fonts-poppins-vh
-Paid but Free
+Paid but free
